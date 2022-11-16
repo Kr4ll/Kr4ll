@@ -16,11 +16,6 @@ You can click the Preview link to take a look at your changes.
     <td width="50%">
   <br>
 
-[![Spotify](https://novatorem-indol-three.vercel.app/api/spotify)](https://open.spotify.com/user/albertranger7)
-
-  </td>
-  <td width="50%">
-  <br>
 
 ![Kmepachi](https://github.com/Kr4ll/C-Operative-System/blob/main/gifs/zaraki-kenpachi.gif)
 ![anime](https://github.com/Kr4ll/C-Operative-System/blob/main/gifs/onizuka.gif)
