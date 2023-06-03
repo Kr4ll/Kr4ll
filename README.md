@@ -17,6 +17,5 @@ You can click the Preview link to take a look at your changes.
   <br>
 
 
-![Kmepachi](https://github.com/Kr4ll/C-Operative-System/blob/main/gifs/zaraki-kenpachi.gif)
 ![anime](https://github.com/Kr4ll/C-Operative-System/blob/main/gifs/onizuka.gif)
 
