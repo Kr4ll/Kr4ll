@@ -29,11 +29,11 @@ You can click the Preview link to take a look at your changes.
     </thead>
     <tbody align="center">
       <tr>
-        <td>High</td>
+        <td>Medium</td>
         <td><img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;</td>
       </tr>
       <tr>
-        <td>High</td>
+        <td>Medium</td>
         <td><img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;</td>
       </tr>
       <tr>
